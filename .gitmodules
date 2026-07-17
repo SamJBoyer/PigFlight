@@ -1,0 +1,6 @@
+[submodule "FlightEngine"]
+	path = FlightEngine
+	url = https://github.com/SamJBoyer/FlightEngine.git
+[submodule "ProvingGrounds"]
+	path = ProvingGrounds
+	url = https://github.com/SamJBoyer/GoonSquad.git
